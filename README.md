@@ -35,10 +35,6 @@ To use this script, simply run it from your command line with an optional direct
 5. **Optional API Integration**:
     - With user consent, sends the merged content to the Ollama API.
 
-## Features
-- **File Aggregation**: Merges all `.js` and `.jsx` files into one, simplifying file management.
-- **Error Checking**: Prevents accidental overwrites by ensuring no pre-existing output file.
-- **API Integration**: Offers optional integration with the Ollama API for enhanced functionality.
 
 ## Contributing
 - Contribute to this project by forking the repository and submitting a pull request. Raise issues and suggestions via the GitHub issue tracker.
