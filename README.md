@@ -16,7 +16,7 @@ No installation is required for this script beyond having Bash available on your
 To use this script, simply run it from your command line with an optional directory parameter. If no directory is specified, the script uses the current directory by default.
 
 ```bash
-./script_name.sh [path_to_directory]
+./Plaintext-and-Prompt.sh [path_to_directory]
 ```
 
 # Script Functionality Overview
