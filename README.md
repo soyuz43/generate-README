@@ -3,7 +3,9 @@
  - Right now the script only concatenates .js and .jsx files, I plan to add other filetypes, as well as allowing the users to specify those filetypes, in future updates.
  - Output is just displayed in terminal window, plans to pipe output into .md file in the future
 
-**Experimental:** may not function as intended. You need to have Ollama installed and have pulled `mistral-openorca:7b-q6_K`. This takes at least 16GB of Ram in my experience.
+**Experimental:** 
+ - may not function as intended.
+ - You need to have Ollama installed and have pulled `mistral-openorca:7b-q6_K`. This takes at least 16GB of Ram in my experience.
 
 ## Description
 
